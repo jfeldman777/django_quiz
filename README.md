@@ -1,3 +1,5 @@
+Jacob Feldman: now it works with Django 1.11.5 (deprecated data types removed)
+==============================================================================
 Django quiz app
 ===============
 [![Build Status](https://travis-ci.org/tomwalker/django_quiz.svg?branch=master)](https://travis-ci.org/tomwalker/django_quiz)
